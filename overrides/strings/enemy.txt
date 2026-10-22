@@ -1,0 +1,15 @@
+# Overridden string files work in a unique way!
+# Instead of overriding the whole file, they only override the specified strings.
+:people:
+	:name:
+		Meat Boy
+
+	:phonebook:
+		A large cubic skinless child who grew up in Seattle, ended up in the suburbs through a warp zone.
+
+:decedent:
+	:name:
+		Tofu Boy
+
+	:phonebook:
+		A large expired tofu cube who was created by the gods out of pure, unadulterated spite. Struggles to do anything due to an iron deficiency
